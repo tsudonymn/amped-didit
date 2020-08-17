@@ -1,0 +1,3 @@
+- https://www.reddit.com/r/SatisfactoryGame/comments/f6kova/my_indepth_analysis_of_the_new_update_3_alternate/
+- https://satisfactory-calculator.com/en/hard-drives
+- https://www.reddit.com/r/SatisfactoryGame/comments/bd74ve/best_alternative_recipes/
