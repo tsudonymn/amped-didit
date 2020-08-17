@@ -1,0 +1,8 @@
+- a quick little form of things that should help positively influence groups...
+- Did you....
+  - plant a seed
+  - push for feedback
+  - push for visibility
+  - push for collaboration
+  - maybe a technical skills section?
+  - part what did I do part what should I have done?
