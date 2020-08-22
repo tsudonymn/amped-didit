@@ -1,3 +1,15 @@
+This all begon from:
+
+Walk-through — install Kubernetes to your Raspberry Pi in 15 minutes | by Alex Ellis | Medium
+https://medium.com/@alexellisuk/walk-through-install-kubernetes-to-your-raspberry-pi-in-15-minutes-84a8492dc95a
+
+teamserverless/k8s-on-raspbian: Kubernetes on Raspbian (Raspberry Pi)
+https://github.com/teamserverless/k8s-on-raspbian
+
+How to Install Kubernetes on a Raspberry Pi Cluster | by Richard Youngkin | Better Programming | Medium
+https://medium.com/better-programming/how-to-install-kubernetes-on-a-raspberry-pi-cluster-49ad9a762d08
+
+---
 C:\Users\tsudo\Downloads> .\k3sup.exe install --ip $IP --user pi
 Running: k3sup install
 Public IP: 192.168.1.68
@@ -82,4 +94,16 @@ Check the spelling of the name, or if a path was included, verify that the path 
 C:\Users\tsudo\Downloads> Set-Variable -Name "KUBECONFIG" -Value "C:\Users\tsudo\Downloads\kubeconfig"
 C:\Users\tsudo\Downloads> kubectl get node -o wide
 Unable to connect to the server: dial tcp 192.168.99.100:8443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
-C:\Users\tsudo\Downloads> kubectl get node -o wid
+C:\Users\tsudo\Downloads> kubectl get node -o wide
+---
+THis turned out to be a problem later...
+
+https://www.bennettnotes.com/post/raspberry-pi-kubernetes-cluster/
+
+May have exhibited this:
+
+https://stackoverflow.com/questions/53811388/error-from-server-serviceunavailable-the-server-is-currently-unable-to-handle
+
+
+---
+Other links
