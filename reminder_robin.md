@@ -1,3 +1,23 @@
+---
+20202308-0108
+Don't recall why I needed bytes from a string
+
+Eric and I were trying to get a going to sleep notice for RR
+- https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3
+- https://www.base64encoder.io/python/
+
+probably leading from:
+https://github.com/allan-silva/py-time-between
+
+Whole bunch of stuff about heroku and clock:
+- https://elements.heroku.com/addons/scheduler
+- https://devcenter.heroku.com/articles/clock-processes-python
+- https://stackanswers.net/questions/how-are-heroku-worker-and-clock-processes-priced
+- https://realpython.com/automatically-scale-heroku-dynos/
+- https://devcenter.heroku.com/articles/scheduler#defining-tasks
+- https://devcenter.heroku.com/articles/scheduled-jobs-custom-clock-processes#simple-job-scheduling
+- 
+---
 (venv) C:\Users\tsudo\dev\reminder-robin>heroku run bash -a salty-bastion-04148
 Running bash on ⬢ salty-bastion-04148... up, run.6025 (Free)
 ~ $ ls
@@ -85,3 +105,7 @@ INFO:discord.client:All tasks finished cancelling.
 INFO:discord.client:Closing the event loop.
 ~ $ exit
 exit
+---
+env vars
+
+https://www.askpython.com/python/environment-variables-in-python

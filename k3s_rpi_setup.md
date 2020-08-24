@@ -1,4 +1,48 @@
-This all begon from:
+---
+20200824
+pi@raspberrypi:~ $ curl -sLS https://dl.get-arkade.dev | sudo sh
+armv7l
+Downloading package https://github.com/alexellis/arkade/releases/download/0.6.4/arkade-armhf as /tmp/arkade-armhf
+Download complete.
+
+Running with sufficient permissions to attempt to move arkade to /usr/local/bin
+New version of arkade installed to /usr/local/bin
+Creating alias 'ark' for 'arkade'.
+            _             _      
+  __ _ _ __| | ____ _  __| | ___ 
+ / _` | '__| |/ / _` |/ _` |/ _ \
+| (_| | |  |   < (_| | (_| |  __/
+ \__,_|_|  |_|\_\__,_|\__,_|\___|
+
+Get Kubernetes apps the easy way
+
+Version: 0.6.4
+Git Commit: 76049b52349f44e325e288b9ea8e264efa890f3e
+pi@raspberrypi:~ $ kubectl top node
+WARN[2020-08-23T00:53:38.239594766-04:00] Unable to read /etc/rancher/k3s/k3s.yaml, please start server with --write-kubeconfig-mode to modify kube config permissions 
+error: error loading config file "/etc/rancher/k3s/k3s.yaml": open /etc/rancher/k3s/k3s.yaml: permission denied
+pi@raspberrypi:~ $ export KUBECONFIG=`pwd`/kubeconfig
+pi@raspberrypi:~ $ cd ~/
+.BOINC/    .config/   Downloads/ .kube/     Pictures/  .ssh/      .vnc/
+Bookshelf/ Desktop/   .gnome/    .local/    .pki/      Templates/ 
+.cache/    Documents/ .gnupg/    Music/     Public/    Videos/    
+pi@raspberrypi:~ $ cd ~/.kube/
+pi@raspberrypi:~/.kube $ ls
+cache  config  http-cache
+pi@raspberrypi:~/.kube $ cd 
+pi@raspberrypi:~ $ export KUBECONFIG=/home/pi/.kube/config 
+pi@raspberrypi:~ $ kubectl top pod --all-namespaces
+Error from server (ServiceUnavailable): the server is currently unable to handle the request (get pods.metrics.k8s.io)
+pi@raspberrypi:~ $ kubectl top pod
+Error from server (ServiceUnavailable): the server is currently unable to handle the request (get pods.metrics.k8s.io)
+pi@raspberrypi:~ $ kubectl get node -o wide
+NAME          STATUS     ROLES    AGE     VERSION        INTERNAL-IP    EXTERNAL-IP   OS-IMAGE                         KERNEL-VERSION   CONTAINER-RUNTIME
+raspberrypi   NotReady   master   3d14h   v1.18.6+k3s1   192.168.1.68   <none>        Raspbian GNU/Linux 10 (buster)   5.4.51-v7l+      containerd://1.3.3-k3s2
+pi@raspberrypi:~ $ 
+
+---
+b4 20200824
+This all begon from: Well not quite and close enough...
 
 Walk-through — install Kubernetes to your Raspberry Pi in 15 minutes | by Alex Ellis | Medium
 https://medium.com/@alexellisuk/walk-through-install-kubernetes-to-your-raspberry-pi-in-15-minutes-84a8492dc95a
@@ -105,5 +149,8 @@ May have exhibited this:
 https://stackoverflow.com/questions/53811388/error-from-server-serviceunavailable-the-server-is-currently-unable-to-handle
 
 
+---
+NodeRed:
+https://dev.to/blakec/exploring-the-helmchart-custom-resource-in-k3s-2l52
 ---
 Other links
