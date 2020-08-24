@@ -1,4 +1,38 @@
 ---
+20200825-0200
+
+   99  kubectl top node
+  100  export KUBECONFIG=`pwd`/kubeconfig
+  101  cd ~/.kube/
+  102  ls
+  103  cd 
+  104  export KUBECONFIG=/home/pi/.kube/config 
+  105  kubectl top pod --all-namespaces
+  106  kubectl top pod
+  107  kubectl get node -o wide
+  108  sudo systemctl restart k3s
+  109  kubectl get node -o wide
+  110  cat /boot/cmdline.txt 
+  111  sudo vi /boot/cmdline.txt 
+  112  top
+  113  history
+  114  export KUBECONFIG=/home/pi/.kube/config 
+  115  kubectl get node -o wide
+  116  ifconfig
+  117  vi ./.kube/config 
+  118  kubectl start
+  119  $ sudo systemctl status k3s
+  120  sudo systemctl status k3s
+  121  vi ./.kube/config 
+  122  cd .kube/
+  123  ls
+  124  cd ..
+  125  ls
+  126  sudo systemctl status k3s
+  127  top
+  128  history
+
+---
 20200824
 pi@raspberrypi:~ $ curl -sLS https://dl.get-arkade.dev | sudo sh
 armv7l
