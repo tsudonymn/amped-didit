@@ -17,7 +17,3 @@ https://www.linkedin.com/pulse/our-clients-dont-need-experts-do-expertise-geof-e
 
 We need to talk about... the cult of Agile | LinkedIn
 https://www.linkedin.com/pulse/we-need-talk-cult-agile-geof-ellingham/
-
-How to Refinance Your Mortgage - NerdWallet
-https://www.nerdwallet.com/article/mortgages/how-to-refinance-your-mortgage?nwmsgid=3d0e326003964799806ac3b3021d9c4f&utm_campaign=mort_mktg_202008_refiblast&utm_source=itbl&utm_medium=eml
-
