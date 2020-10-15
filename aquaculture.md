@@ -10,6 +10,9 @@
 - https://www.trees.com/aquaponic-plans
 - http://www.fao.org/3/a-i4021e.pdf
 - https://www.instructables.com/Easy-Hydroponic-Garden-IKEA-Way/
+- https://portablefarms.com/ebooks-about-aquaponics/
+- https://www.fishfarming.com/duckweed.html
+- 
   
 #### Less interesting and still relevant
 - https://www.instructables.com/Mini-NFT-Hydroponic-System/
