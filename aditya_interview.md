@@ -1,0 +1,10 @@
+- victor ops
+- kubernetes
+- PCF
+- Rabbit MQ
+- Prometheus
+- CQRS
+- SpringBoot
+- Event processing metrics
+- real time json feeds from ann arbor company
+- 
