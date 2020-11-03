@@ -1,0 +1,1 @@
+- https://www.marinevinylfabric.com/blogs/marine-vinyl-blog/the-ultimate-diy-guide-to-enclose-a-porch-with-clear-vinyl
