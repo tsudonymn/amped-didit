@@ -1,0 +1,3 @@
+- How to equip the FCGs and people in general to work as a change agent in adverse environments?
+  - What are the resources we can give them to point others to?
+  - What are the 

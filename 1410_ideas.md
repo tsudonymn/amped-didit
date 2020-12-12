@@ -1,0 +1,1 @@
+- https://greenpassivesolar.com/2012/03/optimally-efficient-off-grid-passive-active-solar-home/
