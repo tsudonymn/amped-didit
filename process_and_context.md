@@ -1,0 +1,6 @@
+- It's not always the process that was/is the problem it's the context
+- If you think you have the same context and process isn't working you probably don't have the same context
+- and how could you? Are the people different? Probably... So why then would you be so sure the process would xfer?
+- Group a has some success do x follow process y. group b sees that and tries to replicate. if success then great more power to you. if not success then look at the context differences. 
+- Something I've seen a lot is bot bad process where the context of success had nothing to do with the process and then when it's applied somethwere else and successs does not follow people double down on the process
+- I've seen also where group a has success and it's reasonably attributable to the process and then group b does it and does not have success and then trashes the process. When really it's not about the process it's the difference in context. 
