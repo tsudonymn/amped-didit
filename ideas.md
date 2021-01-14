@@ -1,0 +1,7 @@
+- I want a button to get an instance of an app/platform from github.
+  - It could live on w/e backend they support
+    - Heroku
+    - AWS
+    - Google
+    - Kubernetes/Docker
+  - Be the glue/bridge to take in the configuration required and make it happen  
