@@ -1,0 +1,27 @@
+- Cheezy
+- Matt Barcomb
+- Brian Foote?
+- Doc
+- Jessica Kerr
+- Dan Davis
+- Bill Wake
+- Fred Estabrook
+- Lean Dog John?
+- Jeff UX
+- Bob Allen
+- Nayan
+- A&B tweet people
+- Guy from A&B and Ford with Doc
+- Josh
+- Jeff Langr
+- Matt Carlson
+- Adeel
+- Agile in a minute
+- Dan North
+- April Jefferson
+- Amber
+- Linda Rising
+- Juanita Ewing?
+- Einar Landre
+- My oopsla paper mentor
+- Diane Agile Squirrel
