@@ -1,0 +1,5 @@
+- trochus x 4
+- turbo x 2
+- cerith x 4
+- astrea x 3
+- nassarius x 4

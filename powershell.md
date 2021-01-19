@@ -1,0 +1,1 @@
+type $env:USERPROFILE\.ssh\id_rsa.pub | ssh root@192.168.1.75 "cat >> .ssh/authorized_keys"
