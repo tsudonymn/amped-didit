@@ -1,0 +1,6 @@
+- day 1
+  - proposals - 9am
+  - combine forces - 10am
+  - Start coding - noon
+- day 2
+- coding til noon
