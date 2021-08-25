@@ -1,0 +1,10 @@
+- Refactoring not in support of a story
+  - power up?
+  - with who?
+  - I don't want to feel like I have to watch
+  - and yet when I see commits like this that do not appear to have taken into account the tribal knowledge...
+- We tend to refactor for items around the solid princinples
+  - What other things might we refactor for?
+    - simplicity
+    - while this was simpler it comes at the cost of user feedback
+- 

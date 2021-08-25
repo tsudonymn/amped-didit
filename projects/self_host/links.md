@@ -1,0 +1,10 @@
+- Node Red
+  - http://dietpi:1880/
+  - http://dietpi:1880/ui/
+- ATT Gateway Admin Page
+  - http://192.168.1.254/
+- Kubernetes
+- Desktops
+- Pi Hole
+- Print Server
+- Hubitat
