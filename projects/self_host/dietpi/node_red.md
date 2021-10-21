@@ -1,0 +1,2 @@
+- http://dietpi:1880/
+- http://dietpi:1880/ui/

@@ -1,0 +1,4 @@
+- how might me build the dual purpose path of teaching while doing?
+- short videos with text equivalent walk throughs in a step wise matter.
+- The links to the deep dive on topics
+- 

@@ -1,0 +1,1 @@
+Have you ever wanted to just start using an API? Well now you can! We'll be providing a way for people wanting to use an API to get a mock version of the API quickly and easily!	
