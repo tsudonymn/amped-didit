@@ -8,3 +8,12 @@
 - https://webworxshop.com/self-hosted-gps-tracking-with-traccar-and-home-assistant/
 - https://www.rogerfrost.com/using-nginx-proxy-manager-with-home-assistant-internal-error/
 - 
+# HASS
+
+- installed via dietpi software
+- First use case is for ESP Home to perhaps move sensors over to?
+  - Build multi sensor?
+    - temp
+    - humidity
+    - motion
+    - air quality?
