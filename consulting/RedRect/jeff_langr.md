@@ -1,0 +1,21 @@
+# Jeff Meeting
+
+- peter mynaowski
+- Team in EV
+- Apathy
+- stand downs not attended
+- daily kata
+- skill gap
+- Told area was good and not showing that way
+- Don't speak up
+- Toxic anchor/team member
+- Hey we are safe now and yes there are a ton of toxic people
+- How can we showcase and focus ont he good!?
+- Garrick child of the 80s
+  - Better Off Dead quote
+- jl dREW gap
+  - pairing end of day energitic
+  - Impedance mismatch
+  - dissonance resonance
+  - Dec 13-19th
+  - 
