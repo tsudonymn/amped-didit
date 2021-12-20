@@ -32,6 +32,10 @@ So let's go through some of the myriad of ways our lovely value garden can go wr
   - Are you're managers promoted by feature delivery and execution?
     - How do you get software
 
+Putting seeds down in a parking lot isn't likely to lead to successful garden
+So we should probably pay attention to the context of where/who/how are starting the team off
+And it's not just about not being on pavement
+have to turn the soil, fertilize, worry about pollination
 
 ---
 Dissonance and Resonance
