@@ -1,0 +1,27 @@
+esphome:
+	name: relay-211220
+	platform: ESP32
+	board: esp32dev
+  
+  wifi:
+	ssid: "The_Dal"
+	password: "fluffmonstercatball"
+  
+  # Enable logging
+  
+  logger:
+  
+  # Enable Home Assistant API
+  
+  api:
+  
+  ota:
+	password: "c16de9c4cee9dc691a3d81114c71d0b7"
+  
+  switch:
+	- platform: gpio
+	  name: "Relay"
+	  pin: GPIO15
+	  
+  captive_portal:
+	  
