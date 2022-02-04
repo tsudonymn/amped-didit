@@ -1,0 +1,12 @@
+curl -i \
+  -H 'Harvest-Account-ID: 235903'\
+  -H 'Authorization: Bearer 1391271.pt.x2qTOnQgjXxFzE9jvADDhkmnxlu3wU0peHlWFahIiYrMLZ5mMBzJU-YHdyVhVKqeklxPG6z2gOvLlMy06eKsAw'\
+  -H 'User-Agent: Harvest API Example' \
+  "https://api.harvestapp.com/api/v2/users/me.json"
+
+###
+curl -i \
+  -H 'Harvest-Account-ID: 235903'\
+  -H 'Authorization: Bearer 1391271.pt.x2qTOnQgjXxFzE9jvADDhkmnxlu3wU0peHlWFahIiYrMLZ5mMBzJU-YHdyVhVKqeklxPG6z2gOvLlMy06eKsAw'\
+  -H 'User-Agent: Harvest API Example' \
+  "https://api.harvestapp.com/api/v2/time_entries?from=20200427&to=20200430"
