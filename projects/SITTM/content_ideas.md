@@ -37,6 +37,7 @@ So we should probably pay attention to the context of where/who/how are starting
 And it's not just about not being on pavement
 have to turn the soil, fertilize, worry about pollination
 
+Has your company been sowing expensive seeds in a parking lot and wondering why they aren't growing as the birds eat them off the concrete? Come join a conversation on how and how not to foster successful software teams. We'll talk about preparing the soil, companion planting, pollination, and other patterns to help ensure your team becomes fruitful and productive only in the context of software development teams! You leave with sound strategies to help improve the yield in your own garden.
 ---
 Dissonance and Resonance
 
