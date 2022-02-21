@@ -1,0 +1,3 @@
+- https://www.amazon.com/dp/B07XY1KGZH?tag=outdoorfeels7-20&linkCode=ogi&th=1&psc=1
+- https://www.outdoorfeels.com/best-gravity-fed-smokers/#2-best-budget-masterbuilt-gravity-series-560
+- https://www.outdoorfeels.com/best-gravity-fed-smokers/
