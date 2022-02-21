@@ -1,0 +1,53 @@
+- OWN Pipeline
+- Pairing and mobbing
+- pipline
+- TEchnical review
+- Approvals:
+	- 2 Tech
+	- PO
+	- PM
+	- everyday at 1pm
+- Who creates the story
+	- po/pm
+	- grooming
+	- look to break down if they think it's too big
+	- dark routes
+	- AEM story
+	- react code story
+	- hide field/flag in AEM to use as feature flag
+	- DSL backend
+	- Global owner is react
+	- G.O. AEM
+		- Model structure?
+		- Java servlets exposed as an API
+		- AEWM 6.4.8
+		- JAva 1.8
+		- Maven 3.6
+	- AEM first
+	- DSL D... something Service Layer
+	- 8 teams right now working in parallel
+	- diff sizes and regions
+	- Sunil Bathla
+	- react directly from node and soemtimes to DSLs
+	- Medellia cross platform cross product
+	- across Ford platforms
+	- CX
+	- One CX
+	- Task success nps free text form data that users provide
+	- weekly basis
+	- go back to the design team
+	- UX user journey wise
+	- get the customer to their answer how they wanted to get there
+	- GOogle to our content
+	- can use search bar
+	- explore by topic
+	- Looking at feedback data
+	- literally looking at the live feedback data until it got too much
+	- Intern wrote text analysis to help group feedback by e.g. Warranty
+	- OGC has not granted permission to engage with users in many ways
+	- limits our ability to react personally
+	- Frustration around solving specific
+	- Was mouseflow
+	- Analytics
+	- PO works with the analytics team?
+	- James
