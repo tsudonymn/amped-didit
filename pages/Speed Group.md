@@ -1,0 +1,8 @@
+- Get all combinations
+- each round
+	- grab a person
+		- they see if they are already in a group chosen for the round
+			- if not choose a combo with that person from the pool of available combos
+- for odd numbers just continue the above overloading groups as needed?
+	- Not sure if this always works or could you get into a corner where there isn't a combo left with them in it?
+	-
