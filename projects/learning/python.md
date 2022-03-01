@@ -1,1 +1,9 @@
-[python rest api](https://medium.com/swlh/coding-a-rest-api-with-python-77384ad60511)
+- [python rest api](https://medium.com/swlh/coding-a-rest-api-with-python-77384ad60511)
+- Find item in list overview:
+	- https://www.udacity.com/blog/2021/09/finding-items-in-a-python-list.html
+- A way to find first element using a filter:
+	- https://code-maven.com/python-find-first-element-in-list-matching-condition
+- The white whale of group by:
+	- https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm
+- Permutations and Combinations:
+	- https://www.geeksforgeeks.org/permutation-and-combination-in-python/
