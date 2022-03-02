@@ -1,0 +1,1 @@
+- C:\Users\tsudo\AppData\Local\Programs\Python\Python310
