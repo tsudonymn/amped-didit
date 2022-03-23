@@ -7,50 +7,67 @@ import CardActions from "@material-ui/core/CardActions";
 
 import CardMedia from "@material-ui/core/CardMedia";
 import Button from "@material-ui/core/Button";
+import withStyles, { ClassNameMap } from "@material-ui/core/styles/withStyles";
 
-const useStyles = makeStyles((theme) => ({
+// const useStyles = makeStyles((theme) => ({
+//   root: {
+//     flexGrow: 1,
+//     padding: theme.spacing(2)
+//   },
+//   controls: {
+//     display: "flex",
+//     alignItems: "center",
+//     paddingLeft: theme.spacing(1),
+//     paddingBottom: theme.spacing(1)
+//   }
+// }));
+
+const useStyles = makeStyles({
   root: {
     flexGrow: 1,
-    padding: theme.spacing(2)
+    padding: 2
   },
   controls: {
     display: "flex",
     alignItems: "center",
-    paddingLeft: theme.spacing(1),
-    paddingBottom: theme.spacing(1)
-  }
-}));
+    paddingLeft: 2,
+    paddingBottom: 2
+}
+});
 
-export default function dashBoard() {
+const data = [
+  {
+    name: "fish",
+    desc: "fed the fish",
+    img: "https://picsum.photos/345/300?random=1"
+  },
+  {
+    name: "mail",
+    desc: "get the mail",
+    img: "https://picsum.photos/345/300?random=2"
+  },
+  {
+    name: "dish",
+    desc: "dishes",
+    img: "https://picsum.photos/345/300?random=3"
+  },
+  {
+    name: "laundry",
+    desc: "laundry",
+    img: "https://picsum.photos/345/300?random=4"
+  }
+];
+
+export default function DashBoard() {
   function sayIt(name: String) {
     alert(`Did ${name}`);
   }
-  const classes = useStyles();
-  const data = [
-    {
-      name: "fish",
-      desc: "fed the fish",
-      img: "https://picsum.photos/345/300?random=1"
-    },
-    {
-      name: "mail",
-      desc: "get the mail",
-      img: "https://picsum.photos/345/300?random=2"
-    },
-    {
-      name: "dish",
-      desc: "dishes",
-      img: "https://picsum.photos/345/300?random=3"
-    },
-    {
-      name: "laundry",
-      desc: "laundry",
-      img: "https://picsum.photos/345/300?random=4"
-    }
-  ];
+    const classes = useStyles();
+
+
   return (
-    <div className={classes.root}>
-      <Card>
+    <div>
+      <Card className={classes.root} >
         <Title title="Welcome to the administration" />
         <CardContent>Welcome</CardContent>
       </Card>
@@ -63,7 +80,7 @@ export default function dashBoard() {
       >
         {data.map((elem) => (
           <Grid item xs={12} sm={6} md={3} key={data.indexOf(elem)}>
-            <Card className={classes.root}>
+            <Card >
               <CardActionArea>
                 <CardMedia
                   component="img"
