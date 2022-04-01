@@ -1,0 +1,26 @@
+- MAtthew's presentation
+- SHow the team the fred agile in x mins video
+- The submarine video
+- Have a video learning session bring you're fav video and we'll open space them?
+-
+---
+- Take a blob of text input and produce a scene with models
+	- e.g. scene with two characters talking on a street in a city might produce...
+		- https://bit.ly/34GTutA
+- AI illustrated branching collaborative story
+	- leverage github and branches
+	- so people can explore various branches can take the story in their own direction!
+	- You can follow different threads or authors or other groupings
+	- Great for fanfic as the authors can play off each other
+	- How might I produce a mock up to show others to get them to see some of the vision?
+		- produce a short story in git and branches and then how to visualize nicely?
+	-
+---
+- Global contact center
+- microsoft dynamics
+- lots of purchased services
+- Kim Liddle
+- CRM of MS Dynamics
+- Informatics
+- Improving agent experience
+- Seems like a tie in to the support OWN search type capability
