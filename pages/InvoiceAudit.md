@@ -1,1 +1,2 @@
-- 04/25/2021 Invoice is wher
+- 04/25/2021 Invoice is where I think they switched over to weekly maybe?
+	- This invoice
