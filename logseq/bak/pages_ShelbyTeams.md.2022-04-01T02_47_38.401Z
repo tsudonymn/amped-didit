@@ -1,0 +1,4 @@
+- Learning Opportunities
+	- Stories
+		- http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_essentials_quickref.pdf
+	-

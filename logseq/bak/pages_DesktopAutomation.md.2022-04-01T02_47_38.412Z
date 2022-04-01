@@ -1,0 +1,3 @@
+- https://powerautomate.microsoft.com/en-us/desktop/
+- https://github.com/A9T9/RPA/blob/master/command-line/python/run-and-check-result.py
+-

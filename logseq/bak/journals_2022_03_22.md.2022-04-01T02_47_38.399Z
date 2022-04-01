@@ -1,0 +1,10 @@
+- https://selfdeterminationtheory.org/theory/
+- SDT is an organismic dialectical approach. It begins with the assumption that people are active organisms, with evolved tendencies toward growing, mastering ambient challenges, and integrating new experiences into a coherent sense of self. These natural developmental tendencies do not, however, operate automatically, but instead require ongoing social nutriments and supports. That is, the social context can either support or thwart the natural tendencies toward active engagement and psychological growth, or it can catalyze lack of integration, defense, and fulfillment of need-substitutes. Thus, it is the dialectic between the active organism and the social context that is the basis for SDT’s predictions about behavior, experience, and development.
+- That is, the social context can either support or thwart the natural tendencies toward active engagement and psychological growth, or it can catalyze lack of integration, defense, and fulfillment of need-substitutes.
+- ---
+- #DCS asks
+	- A mono repo template
+		- So I can put both front and backend in one repo and have CORS already sorted
+	- A migration strategy from the temp to a real instance.
+- ---
+-

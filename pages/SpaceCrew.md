@@ -1,0 +1,18 @@
+- @summerjade19
+	- sloeraditz
+	- main's loba?
+	- breaded shrimp cream chesse
+	- sushi
+	- not breakfast person
+- BDAY NOV 2ND
+-
+- nona1987
+	- waitress?
+- MamaGalaxyWolf
+	- main
+		- ?
+	- has son
+	- 39
+	- BF 46
+	-
+	-
