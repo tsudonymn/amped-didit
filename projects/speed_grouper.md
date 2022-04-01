@@ -1,4 +1,5 @@
 # Speed Grouper
+id:: 62432306-4b8c-4a3b-b013-7d7263953759
 
 https://github.com/tsudonymn/speed_grouper
 
@@ -18,7 +19,7 @@ People:
  Person(name='Person13'),
  Person(name='Person14'),
  Person(name='Person15')]
- 
+
 All combos
 [(Person(name='Person1'), Person(name='Person2'), Person(name='Person3')),
  (Person(name='Person1'), Person(name='Person2'), Person(name='Person4')),
