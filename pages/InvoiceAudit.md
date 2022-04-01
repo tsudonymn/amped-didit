@@ -1,2 +1,3 @@
 - 04/25/2021 Invoice is where I think they switched over to weekly maybe?
-	- This invoice
+	- This invoice was for 40 hours and yet in the log it shows it covering 10 days for 64 hours
+	- Either is fine and if it was for 40 there should be another to
