@@ -1,3 +1,6 @@
 - C:\Users\tsudo\AppData\Local\Programs\Python\Python310
 - https://github.com/tsudonymn/speed_grouper
-- Maybe have each person keep track of who they've been grouped with and then when trying to add them they
+- Maybe have each person keep track of who they've been grouped with and then when trying to add them they know for themselves?
+- Also maybe pandas and dataframes could be of use?
+	- with groupby?
+	-
