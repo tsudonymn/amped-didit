@@ -1,7 +1,9 @@
-- # Speed Grouper
+title:: speed_grouper_data
+
+-
+- # Speed Grouper Data
   id:: 62432306-4b8c-4a3b-b013-7d7263953759
-  
-  https://github.com/tsudonymn/speed_grouper
+  title:: speed_grouper_data
 - People:
   [Person(name='Person1'),
    Person(name='Person2'),
