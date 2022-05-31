@@ -1,0 +1,2 @@
+- We go over in the intro some of the downsides do we call them back out and address them?
+-

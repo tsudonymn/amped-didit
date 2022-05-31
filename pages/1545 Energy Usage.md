@@ -1,0 +1,12 @@
+- What is the goal/vision
+	- Reduce usage
+		- by understanding what is using
+	- Return on Investment
+	- Should I put more effort into this or are there better returns on time for Environment benefit and financially
+- What's the big picture?
+	- Total Cost
+	- Total Usage
+	- Trends
+	- Always On
+	- 1.7 kwh
+- Solar

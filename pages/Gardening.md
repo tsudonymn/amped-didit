@@ -1,0 +1,4 @@
+- https://www.canr.msu.edu/events/bee-lawns
+- https://extension.umn.edu/landscape-design/planting-and-maintaining-bee-lawn
+- https://pollinators.msu.edu/resources/pollinator-planting/pollinator-lawns/
+- https://www.canr.msu.edu/resources/smart_lawns_for_pollinators

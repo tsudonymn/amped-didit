@@ -1,0 +1,6 @@
+- Slides
+- https://docs.google.com/presentation/d/1JQEBDAB0eOzMdGK_6FY0X9Py1IB6OXFsX_lUIR-kz14/edit#slide=id.p
+- Doc
+- https://docs.google.com/document/d/10qxSu4n-fIGoveH87FLO9uXSLyxM4CqpsNrTa9pLjy0/edit
+- Miro
+- https://miro.com/app/board/uXjVO3MVaOM=/

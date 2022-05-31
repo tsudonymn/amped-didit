@@ -1,0 +1,1 @@
+- https://forums.developer.nvidia.com/t/a-gpt-3-and-computer-vision-powered-talking-robotic-teddy-bear-on-jetson-nano-with-human-level-intelligence/202661

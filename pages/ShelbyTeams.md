@@ -1,4 +1,7 @@
 - Learning Opportunities
 	- Stories
 		- http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_essentials_quickref.pdf
-	-
+-
+- Shelby & Software Artisanship Doc:
+- https://docs.google.com/presentation/d/1Meq0WQH7a0gUd03wuchZigtp6zsIqoliJnmTFZzaj2c/edit?pli=1#slide=id.g1271eb25a71_0_9
+-
