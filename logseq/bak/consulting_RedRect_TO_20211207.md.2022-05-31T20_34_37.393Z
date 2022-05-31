@@ -1,0 +1,22 @@
+# TO
+
+## Gather meeting
+
+### New Artisan teams
+
+- Shelby Doc
+- FCG Doc
+
+- Are we trying to describe goals and outcomes at the high level 
+  - The LL3 Netta example
+  - Or do we believe it would be helpful to drive more concrete guidelines
+    - "Thou shalt..."
+    - Probably a balance and how to strike the right one?
+
+### Metrics
+
+- Should we even continue pursuing?
+- Can we get better metrics out of Sonarqube?
+  - Spin up our own 
+  - run on known repos
+  - Check metrics
