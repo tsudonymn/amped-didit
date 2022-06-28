@@ -1,0 +1,10 @@
+- #[[Ford Labs]]
+- UX design grad 2020
+- Research focused
+- then went to an agency
+- on the research team
+- intern w associate team
+- Impact Labs
+- FIS
+- banking app
+- White label

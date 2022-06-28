@@ -1,0 +1,15 @@
+- #house
+- Does having windows at top open help keep downstairs cooler?
+- How best to keep loft livable/workable
+- Does the new tarp/canvas make a difference?
+-
+- Get temp/hum data from
+	- top of loft
+	- bottom of loft
+	- main downstairs
+	- main bedroom
+	- upstairs bedrooms?
+- Where does home assistant keep the data?
+	- Can I get to it direct?
+	-
+	-

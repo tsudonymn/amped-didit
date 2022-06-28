@@ -1,0 +1,5 @@
+- https://survey.stackoverflow.co/2022/
+- Investigation radar
+	- https://www.phoenixframework.org/
+	- https://svelte.dev/
+	-
