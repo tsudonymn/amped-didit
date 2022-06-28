@@ -1,0 +1,11 @@
+- Port scanning sites:
+	- https://portchecker.co/
+	- https://www.ipfingerprints.com/portscan.php
+	- https://www.yougetsignal.com/tools/open-ports/
+- http://helpdesk.syncrob.it/support/solutions/articles/69000777700-fixing-relayed-port-forwarding
+- https://syncrobit.medium.com/local-dashboard-customize-everything-5a57b129b112
+- http://helium-gateway.local/
+- cham-434e2bba
+- https://www.att.com/support/article/u-verse-high-speed-internet/KM1215101
+-
+- https://www.reddit.com/r/HeliumNetwork/comments/o5qj38/att_port_forwarding/

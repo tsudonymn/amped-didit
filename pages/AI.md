@@ -1,0 +1,4 @@
+- https://medium.com/swlh/i-wrote-a-book-with-gpt-3-ai-in-24-hours-and-got-it-published-93cf3c96f120
+- https://www.vennify.ai/gpt-neo-made-easy/
+- https://towardsdatascience.com/train-gpt-2-in-your-own-language-fc6ad4d60171
+- https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?ref=hackernoon.com#scrollTo=afwL_-ROCmDf

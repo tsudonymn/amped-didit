@@ -1,0 +1,3 @@
+- Randomish generation of star systems with some randomish template ones as well
+- So most follow a distribution with some "named" ones with specific things or stories?
+-

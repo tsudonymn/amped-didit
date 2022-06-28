@@ -1,0 +1,1 @@
+- https://www.manager-tools.com/manager-tools-basics

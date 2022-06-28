@@ -1,0 +1,5 @@
+- https://github.com/scottbez1/smartknob
+- https://oshpark.com/
+- https://www.smallbatchassembly.com/faq/#What-is-this-place-
+- The creator and folks are trying to find the motors or an equivalent...
+	- https://github.com/scottbez1/smartknob/issues/16

@@ -6,6 +6,10 @@
   "editor.lineHeight": 24,
   "workbench.colorTheme": "Default Dark+",
   "[markdown]": {
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
   }
 }

@@ -1,0 +1,2 @@
+- http://marksbench.com/electronics/esp32-cam-low-power-trail-camera/
+-
