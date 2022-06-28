@@ -1,0 +1,3 @@
+- Better HA Lovelace cards/views esp for event history like presence
+- NLP Robin
+- MI Reefers add distance to posts and plub through discord?

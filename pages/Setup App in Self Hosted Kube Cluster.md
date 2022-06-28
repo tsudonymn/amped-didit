@@ -1,0 +1,4 @@
+- Get simple API accessible from outside
+- get Sidekick working in kube
+- kubeapps?
+- Get pysheet working in kube

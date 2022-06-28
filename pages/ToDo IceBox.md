@@ -1,0 +1,6 @@
+- LATER Get thermostat to Jake
+- LATER PiKVM
+- Measure battery
+- Char phone
+- Button
+- Order parts for fish feeder
