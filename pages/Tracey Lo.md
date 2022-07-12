@@ -1,25 +1,4 @@
-- Jun 2
-	- @ Labs Nov 2019
-		- Jealous of getting into office
-- FCG
-	- Driver assit
-	- EPE
-	- powertrain
-	- 2020 transit
-	- City Solutions
-		- In TPM?
-- priorities
-- learning
-- not just achieving and accomplishing
-- Deg in EE
-- Mat LAb
-- In labs:
-	- Finder Ford
-	- People mover
-	- Moving goods
-- Now Newsie
-- before lee left
-	- Burnout
-	- what changes to make
-	- cheapest is to change products
-- What to do to move
+- Check ins:
+	- [[Jun 2]]
+	- [[7/12/22]]
+-
