@@ -1,5 +1,5 @@
 - ---
-- 220727
+- 220727 /insert
 - Now my sched had me here from yesterday thru the weekend
 - Jess request for Thurs
 - Now asking to trade for Fri to watch Bean til Sat AM
