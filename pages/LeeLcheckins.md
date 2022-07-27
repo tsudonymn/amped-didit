@@ -1,0 +1,29 @@
+- 220727
+- Lee Check In  / Quarterly goals
+- Will meeting again this week or early next
+-
+- Leads to dealships
+	- lead channel
+	- automating
+	- tie into an API
+		- refer leads to dealerships
+		- Got access
+		- name
+		- address
+		- dealer code
+		- one shot api
+			- 100 good
+			- 200 ?
+			- 400 ?
+			- 900 bad
+	- GOing well
+		- got access to other system
+		- auto update pricing
+		- to sync with build.ford
+		- Had to talk to someone
+			- submit ticket
+		- Still username/pwd based
+- ---
+	-
+	-
+	-
