@@ -1,3 +1,8 @@
+- Now my sched had me here from yesterday thru the weekend
+- Jess request for Thurs
+- Now asking to trade for Fri to watch Bean til Sat AM
+-
+- ---
 - What was reality for  7/13-15?
 	- Things got switched around and I'll need to look at google
 	- Friction around being gone for "5" days Thurs, Fri, Sat, Sun, Mon
