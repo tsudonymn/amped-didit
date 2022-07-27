@@ -1,3 +1,3 @@
 - Portland
 - Savannah
-	- - 7/26
+	- 7/19 - 7/26
