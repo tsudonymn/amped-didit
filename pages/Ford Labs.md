@@ -2,4 +2,5 @@
 	- https://miro.com/app/board/uXjVOwWSBy0=/
 -
 - #[[Labs OOO List]]
--
+- Links:
+	- Apply to get comp for
