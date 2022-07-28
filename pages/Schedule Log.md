@@ -9,6 +9,6 @@
 	- Things got switched around and I'll need to look at google
 	- Friction around being gone for "5" days Thurs, Fri, Sat, Sun, Mon
 		- Went out to see Bean on Fri at End of School day 4:51-5:29
-		- was gone longer than expected
+			- was gone longer than expected
 	-
 -
