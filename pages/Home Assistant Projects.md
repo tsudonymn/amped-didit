@@ -1,0 +1,4 @@
+- Garage button
+	- HA auth token:
+		- eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI2MjgyZTkwZjQ5ZjI0N2RmYjNmMWVhMzc0OWNhZjI3NiIsImlhdCI6MTY1Njg4MTQ4OSwiZXhwIjoxOTcyMjQxNDg5fQ.gwbF5Fl6e1WWLni-v7vQUvoe6VmgQicRj3r4bduxC9o
+	- Works with curl and not in vscode via Rest Client

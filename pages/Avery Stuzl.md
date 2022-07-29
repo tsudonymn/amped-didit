@@ -1,31 +1,7 @@
 - Avery
 - grew up in Maine
 - Currently in CHicago
-- fully remote questions?
-- it takes a lot of energy on appearance so doesn't love camera
-- circuits back in the day
-- shipped first site in LAMP 2010?
-- comp eng
-	- VSLI
-- 1/2 thru masters in VLSI
-- halfway thru in ML
-- hobby interests
-- robotics team
-	- being an anchor
-- NOAH Navy
-- aircraft carriers and Subs
-- lots of flyway
-- fancy banner ad team in FOrd Credit
-- first customer facing ML
-- spunk and grafana
-- market ads stuff
-- what do they want to see
-- mini FOrd Labs
-- 2020
-- On Newsie
-- Apollo
-	- order mgmt
-	- PPE
-	- logistics
-- Story Jam 6wks ago
-- market ads stuff
+- Chats:
+	- [[Chat from 6/22]]
+	- [[Avery chat 7/13/22]]
+	-
