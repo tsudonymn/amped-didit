@@ -1,2 +1,4 @@
 - #[[IoT Projects]]
+- #[[Maker Projects]]
+- #[[Dashboard Projects]]
 -
