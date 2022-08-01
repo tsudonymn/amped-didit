@@ -1,0 +1,3 @@
+- What does the Nemesis look like?
+- People plus vision equals team
+- Tools Plus contacts equal what?

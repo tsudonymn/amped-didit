@@ -1,4 +1,6 @@
 - #[[IoT Projects]]
 - #[[Maker Projects]]
 - #[[Dashboard Projects]]
--
+- speedtest
+- shed
+- pi android/google tv
