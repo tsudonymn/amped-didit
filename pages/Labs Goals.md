@@ -1,5 +1,11 @@
 - On Deck:
-	- Tanmay
+	- GCP
+		- Tanmay
+	- Labs:
+		- Mobbing?
+		- Trunk Based?
+		- No pointing?
+		-
 - Done:
 	- Gave Session For Nat's Mentoring Circle
 		- Nat turned around and wants Gather!
