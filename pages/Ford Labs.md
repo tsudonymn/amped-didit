@@ -1,5 +1,5 @@
 - #[[Ford Labs TODOs]]
--
+- #[[Labs Goals]]
 - #[[Labs OOO List]]
 - Links:
 	- Ops Retro Miro
