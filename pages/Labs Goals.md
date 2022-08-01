@@ -1,2 +1,5 @@
-- Gave Session For Nat
--
+- On Deck:
+	- Tanmay
+- Done:
+	- Gave Session For Nat's Mentoring Circle
+		- Nat turned around and wants Gather!
