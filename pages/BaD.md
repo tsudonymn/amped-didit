@@ -1,0 +1,4 @@
+- Being A Dik
+- ---
+- https://www.mejoress.com/en/being-a-dik-walkthrough-endings/#21st_free_roam_Episode_6
+- https://attachments.f95zone.to/2021/04/1191101_Walkthrough_Being_a_DIK.pdf

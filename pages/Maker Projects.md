@@ -1,0 +1,4 @@
+- Ceiling display pico projector
+- https://microengineer.eu/2018/05/01/diy-night-clock-projector/
+- Remote car starter
+- Whiteboard display

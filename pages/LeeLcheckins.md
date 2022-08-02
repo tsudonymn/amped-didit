@@ -1,0 +1,53 @@
+- 220727
+- Lee Check In  / Quarterly goals
+- Will meeting again this week or early next
+-
+- Leads to dealships
+	- lead channel
+	- automating
+	- tie into an API
+		- refer leads to dealerships
+		- Got access
+		- name
+		- address
+		- dealer code
+		- one shot api
+			- 100 good
+			- 200 ?
+			- 400 ?
+			- 900 bad
+	- GOing well
+		- got access to other system
+		- auto update pricing
+		- to sync with build.ford
+		- Had to talk to someone
+			- submit ticket
+		- Still username/pwd based
+- ---
+	- SImplified Shoping
+	- Greg Kaiser
+	- 3-4 months
+	- build.ford.com
+	- for the ford explorer
+	- buy.ford.com
+	- springboot backend
+	- redisgned w/ v2
+	- nextjs
+	- image optomization
+	- statically build pages on backend
+	- dynamically load routes
+	- build cache version
+	- basically some stuff on top of react
+	- built on top on the folder struture
+	- jenkins
+		- use the FL instance
+		- dev main branches
+		- auto deploy to PCF
+		-
+	- Near the end of the main features
+		- Quiz section
+			- what model do they want?
+				- asks some questions to help
+				-
+	-
+	-

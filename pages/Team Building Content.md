@@ -1,0 +1,7 @@
+- Intro
+- Shared vision purpose
+- Team
+- Roles
+- Communication
+- Feedback loops
+- Build measure learn

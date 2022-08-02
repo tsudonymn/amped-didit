@@ -1,0 +1,5 @@
+- TODO 3rd quarter goals meetings
+- TODO tanmay gcp
+- TODO work adventure
+- TODO Help Ashley w/ broken app?
+- TODO Talent thing w/ Dorman's group Allison Amy Brian

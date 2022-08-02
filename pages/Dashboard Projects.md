@@ -1,0 +1,6 @@
+- IS garage open and last n events
+- does tank need water with some red yellow green
+- Estimate when tank will need more water
+- Lights left on longer than...
+- Lights left on with no presence data
+- Presence data

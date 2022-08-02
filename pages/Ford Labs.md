@@ -1,5 +1,8 @@
-- Ops Retro Miro
-	- https://miro.com/app/board/uXjVOwWSBy0=/
--
+- #[[Ford Labs TODOs]]
+- #[[Labs Goals]]
 - #[[Labs OOO List]]
--
+- Links:
+	- Ops Retro Miro
+		- https://miro.com/app/board/uXjVOwWSBy0=/
+	- Apply to get comp for courses/conferences:
+		- https://azureford.sharepoint.com/sites/GECRAS/Pages/gecrasHome.aspx
