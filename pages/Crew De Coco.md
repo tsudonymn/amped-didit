@@ -1,9 +1,13 @@
 - Naseem Bokhari
+	-
 	- nbokhar2@ford.com
 - Manjusha
-- Email List:
-	- nbokhar2@ford.com
 	- mjanga@ford.com
+- Avery Sturzl
 	- msturzl@ford.com
+- Tracey
 	- tlo3@ford.com
+- Lee L
 	- llazarec@ford.com
+- Email List:
+	- nbokhar2@ford.com, mjanga@ford.com, msturzl@ford.com, tlo3@ford.com, llazarec@ford.com
