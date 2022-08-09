@@ -12,4 +12,9 @@
 	- a/b testing
 	- personalizing
 	- Looking for change in behavior?
--
+- Back to the meta of what we often do
+	- Open to activation?
+- Back to looking at the data for opportunities
+- Customer data driven
+- How to connect to customer desires?
+- Is Danew and Ankil the
