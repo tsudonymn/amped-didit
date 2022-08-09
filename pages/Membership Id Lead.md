@@ -21,4 +21,5 @@
 - Ford Ambassadors
 - On edge of electrification and we could help them feel good about going ahead and making the purchase
 - Back to the "dashboard" as the single customer view?
+- Still interested in how to get them to focus them on what are the concrete outcomes?
 -
