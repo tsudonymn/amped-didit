@@ -3,3 +3,5 @@
 - Any computer issues?
 - Have you had a chance to see a few projects?
 - Post results to a onboarding channel?
+- Can you shcedule Polly's?
+-
