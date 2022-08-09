@@ -5,4 +5,5 @@
 - TODO Talent thing w/ Dorman's group Allison Amy Brian
 - TODO Ping Josh Peck for Backstage
 - TODO Schedule Interview and/or Demo w/ Mike and Goldilocks
+- TODO #[[Onboarding checkin bot]]
 -
