@@ -1,2 +1,3 @@
 - https://gitlab.com/cyber5k/mistborn
--
+- CasaOS
+	- https://www.youtube.com/watch?v=RPPbixWEXp0
