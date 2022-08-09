@@ -1,0 +1,15 @@
+- Dan Soares
+- Akhil Anilkumar
+- Dane Fernandaz
+- REgion Braking
+- Scheduled Charging
+- Consent to analyze data
+- Testing out use cases
+- Work has already begun?
+	- What is being done?
+	- Righte audeience
+	- right chaneel
+	- a/b testing
+	- personalizing
+	- Looking for change in behavior?
+-

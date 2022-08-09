@@ -2,6 +2,8 @@
 - #[[Labs Goals]]
 - #[[Labs OOO List]]
 - #[[Labmins]]
+- #[[Labs Leads]]
+-
 -
 - Links:
 	- Ops Retro Miro
