@@ -3,4 +3,4 @@
 - Elise Griffiths
 - Renee Liken
 - Emails:
-	-
+	- jfost142@ford.com, mtilley1@ford.com, egriff38@ford.com,
