@@ -17,4 +17,7 @@
 - Back to looking at the data for opportunities
 - Customer data driven
 - How to connect to customer desires?
-- Is Danew and Ankil the
+- Is Danew and Ankil as the users for enabling customer
+- Ford Ambassadors
+- On edge of electrification and we could help them feel good about going ahead and making the purchase
+-
