@@ -1,2 +1,2 @@
 - https://github.com/jerpena/RPi-image-utils
-	-
+	- Running image-backup with no parameters will create a full backup. To create the smallest possible image, specify an Image ROOT filesystem size of 0 to determine the minimum allowed size.
