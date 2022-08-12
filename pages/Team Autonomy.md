@@ -33,32 +33,35 @@
 	- This process has been harming more than helping us
 	- 90s
 	- Pivitol Labs London
-	-
-- What's
-	- 2018 circa
-	- ryan kennel
-	- before peoplemover
-	- in the dorf days
-- Values
-	- work on the most important thing
-	- If no one chooses a project that should tell us something
-- ALF
-	- team that allows free movement
-- Change
-	- they realize there isn't enough work
-		- They hang for a few days ro week and then tell people leader
-	- then the following week we do allocations and then the week after that maybe there's a change
-	- ONe backlog for all labs?
-	- One backlog for the the ford labs product suite @flabsian
-- The products we build are awesome
-- then we shifted to delivering good learnings
-	- enabling
-- Effrain
-- Nick Leah Andrew all on the down with allocation in some way
-	- All left
-- We trust people to choose the path within the product, the tools, their process, and yet don't think they can choose their product? And how to add value?
-- What would it look like?
-	- Come up with some examples in Miro?
+- From Elise:
+- To the value question: I see our current setup as a way to aggregate thoughts of our reports, and of the needs of our teams, and act as arbiters for the mesh point between those two. It takes a half hour with 5-6 people to figure that out, and also get a lay of the land as far as team dynamics. As an SE, I felt safe that I didn’t have to be the one keeping the whole team in mind when it came to my own future within Labs. I’d let Michelle know my feelings, she could take that data in mind when considering everyone else as well, and I could get back to just worrying about my team for the time being.
+- ---
+- 8/12 Chat w/ Tanmay
+	- What's
+		- 2018 circa
+		- ryan kennel
+		- before peoplemover
+		- in the dorf days
+	- Values
+		- work on the most important thing
+		- If no one chooses a project that should tell us something
+	- ALF
+		- team that allows free movement
+	- Change
+		- they realize there isn't enough work
+			- They hang for a few days ro week and then tell people leader
+		- then the following week we do allocations and then the week after that maybe there's a change
+		- ONe backlog for all labs?
+		- One backlog for the the ford labs product suite @flabsian
+	- The products we build are awesome
+	- then we shifted to delivering good learnings
+		- enabling
+	- Effrain
+	- Nick Leah Andrew all on the down with allocation in some way
+		- All left
+	- We trust people to choose the path within the product, the tools, their process, and yet don't think they can choose their product? And how to add value?
+	- What would it look like?
+		- Come up with some examples in Miro?
 -
 	-
 	-
