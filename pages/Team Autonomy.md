@@ -42,5 +42,6 @@
 - Values
 	- work on the most important thing
 	- If no one chooses a project that should tell us something
--
+- ALF
+	-
 	-
