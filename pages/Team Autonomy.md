@@ -50,5 +50,8 @@
 	- then the following week we do allocations and then the week after that maybe there's a change
 	- ONe backlog for all labs?
 	- One backlog for the the ford labs product suite @flabsian
+- The products we build are awesome
+- then we shifted to delivering good learnings
+	- enabling
 	-
 	-
