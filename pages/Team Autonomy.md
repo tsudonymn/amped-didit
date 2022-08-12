@@ -34,6 +34,10 @@
 	- 90s
 	- Pivitol Labs
 - What's
-	- 2018 crica
+	- 2018 circa
 	- ryan kennel
+	- before peoplemover
+	- in the dorf days
+- Values
+	- work on the most important thing
 	-
