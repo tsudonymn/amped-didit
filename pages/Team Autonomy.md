@@ -29,3 +29,11 @@
 - Survey design
 	- linkert scale?
 		- How much autonomy do you desire
+- Tanmay is an ally
+	- This process has been harming more than helping us
+	- 90s
+	- Pivitol Labs
+- What's
+	- 2018 crica
+	- ryan kennel
+	-
