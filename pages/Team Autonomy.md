@@ -32,7 +32,8 @@
 - Tanmay is an ally
 	- This process has been harming more than helping us
 	- 90s
-	- Pivitol Labs
+	- Pivitol Labs London
+	-
 - What's
 	- 2018 circa
 	- ryan kennel
@@ -40,4 +41,6 @@
 	- in the dorf days
 - Values
 	- work on the most important thing
+	- If no one chooses a project that should tell us something
+-
 	-
