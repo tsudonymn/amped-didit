@@ -1,3 +1,14 @@
+- History as I recall:
+	- Started on a while back when I posed the question to the Admin Team
+		- How might we let people choose their own team instead of assigning them?
+			- John Handy and I talked about it and he pushed back some and had some reasons
+				- I don't recall them
+				- He also was onboard with increasing the self service aspect in people being able to indicate their preference without depending on them talking to the manager
+		- Next was bringing this up with Amy and Elise in 3rd quarter goals meeting on Mon
+		- Then an item was put in Retro titled Allocations? (discuss)
+			- Sounds like Tanmay put it in
+				- Need to chat with him to understand the direction he was trying to have the conversation go
+- ---
 - Trying to find the game company that was big on self forming teams
 	- Obsdian maybe?
 	- Thought it might be riot and it wasn't.
@@ -8,4 +19,11 @@
 	- https://www.harbott.com/why-squads-and-tribes-probably-wont-work/
 		- Not recommending we copy blindly especially because
 - Culture design and continual improvement
--
+- Questions to pose:
+	- Do we tell team what cards to work on?
+	- Do we believe we should learn from the customers not tell them what to do
+	  In college did you choose what classes you wanted to take so you could learn what you wanted to learn?
+	- Some classes you had to for a particular choice and most you choose
+	  Your major you choose
+	- And you could choose a different major if you wanted!
+	-
