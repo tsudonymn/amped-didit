@@ -26,4 +26,6 @@
 	- Some classes you had to for a particular choice and most you choose
 	  Your major you choose
 	- And you could choose a different major if you wanted!
-	-
+- Survey design
+	- linkert scale?
+		- How much autonomy do you desire
