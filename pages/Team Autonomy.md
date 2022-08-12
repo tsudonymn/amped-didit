@@ -1,0 +1,2 @@
+- Trying to find the game company that was big on self forming teams
+	-
