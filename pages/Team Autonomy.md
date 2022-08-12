@@ -54,6 +54,11 @@
 - then we shifted to delivering good learnings
 	- enabling
 - Effrain
-- Nick Leah Andrew
+- Nick Leah Andrew all on the down with allocation in some way
+	- All left
+- We trust people to choose the path within the product, the tools, their process, and yet don't think they can choose their product? And how to add value?
+- What would it look like?
+	- Come up with some examples in Miro?
+-
 	-
 	-
