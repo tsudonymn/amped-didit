@@ -43,5 +43,12 @@
 	- work on the most important thing
 	- If no one chooses a project that should tell us something
 - ALF
+	- team that allows free movement
+- Change
+	- they realize there isn't enough work
+		- They hang for a few days ro week and then tell people leader
+	- then the following week we do allocations and then the week after that maybe there's a change
+	- ONe backlog for all labs?
+	- One backlog for the the ford labs product suite @flabsian
 	-
 	-
