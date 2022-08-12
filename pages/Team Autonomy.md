@@ -4,3 +4,4 @@
 - Spotify comes up a lot for it's tribes and it's not clear they let those self form
 	- And found an article that was indicating they weren't even what people thought
 	- https://uxdesign.cc/squads-tribes-guild-to-be-like-spotify-or-not-13ecf690fd36
+	-
