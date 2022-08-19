@@ -26,4 +26,5 @@
 		- audience participation
 	-
 - anchor to values not practices
+- alloc not looking at value
 -
