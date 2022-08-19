@@ -25,3 +25,5 @@
 		- semi scripted?
 		- audience participation
 	-
+- anchor to values not practices
+-
