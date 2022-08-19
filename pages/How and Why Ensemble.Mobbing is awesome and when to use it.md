@@ -27,4 +27,6 @@
 	-
 - anchor to values not practices
 - alloc not looking at value
--
+- Why Ford Labs?
+	- What would Aaron side
+	-
