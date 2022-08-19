@@ -17,3 +17,11 @@
   I think there could be a couple versions
 - Message by You: An almost improv version. Where we are all there and ready and take suggestions from the crowd. Or better yet involve them by having them join the mob?, Thursday, August 18 2022, 2:41 PM
   An almost improv version. Where we are all there and ready and take suggestions from the crowd. Or better yet involve them by having them join the mob?
+- formats
+	- video w/commentary
+		- Prerecord a good example
+		- live comment
+	- live
+		- semi scripted?
+		- audience participation
+	-
