@@ -3,7 +3,10 @@
 	- 30
 	- 60
 	- 90
-- Check in
+- Check in frequency
+- Am I learning something?
+- Interesting problem space?
+- People
 	-
 -
 - ---
