@@ -36,6 +36,7 @@
 	- reskill since feb 7
 	- 12 wks at D Labs
 	- Some time at Ford Learning and Development
+- ---
 	-
 	-
 	-
