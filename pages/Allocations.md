@@ -4,13 +4,25 @@
 	- 60
 	- 90
 - Check in frequency
-- Am I learning something?
-- Interesting problem space?
-- People
+	- Am I learning something?
+	- Interesting problem space?
+	- People
+- Go Fast
+	- vehicle connected data
+	- build charts out of out
+	- really hard to get data
+	- really connect to the real data
+	- Not what we agreed to
+	- Was a rough point for the SEs
+	- Hadoop
+	- had to work with extrernal SEs to help with that.
+	-
+-
 	-
 -
 - ---
 - Pros
 	- moving frequently encourages better env setup practices
+	- more consistentcy in eng practices
 	-
 	-
