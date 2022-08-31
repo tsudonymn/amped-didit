@@ -25,4 +25,7 @@
 	- moving frequently encourages better env setup practices
 	- more consistentcy in eng practices
 	-
+- TODO track down promo email for Manjusha
+	-
+	-
 	-
