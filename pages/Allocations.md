@@ -1,6 +1,13 @@
 - Developing survey questions
+- Timeframe expectation
+	- 30
+	- 60
+	- 90
+- Check in
+	-
 -
 - ---
 - Pros
-	- moving frequently
+	- moving frequently encourages better env setup practices
+	-
 	-
