@@ -27,5 +27,16 @@
 	-
 - TODO track down promo email for Manjusha
 	-
+- ---
+- Julia Fisher
+	- via webex
+	- asking questions about follow up on interview questions
+	- Don't know much about
+	- Sharepoint admin dbs and servers
+	- reskill since feb 7
+	- 12 wks at D Labs
+	- Some time at Ford Learning and Development
+	-
+	-
 	-
 	-
