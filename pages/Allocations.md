@@ -27,7 +27,9 @@
 		- Falls back to us
 		- Or people who don't have strong opinions can fill in where needed after people who care have chosen.
 			- So they still have some choice and we can see who is choosing not to exercise it
-			- Also
+			- Also could see people who don't feel safe
+				- Could inquire why
+				-
 -
 	-
 -
