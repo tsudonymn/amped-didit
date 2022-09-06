@@ -1,0 +1,11 @@
+- 4yr old
+- 2 yr old
+- 5 month old
+- Wed is about:
+	- uniting Labs
+	- connecting
+- Welcome to Ford LAbs
+- Weird use of Technology
+- Connecting people
+-
+-
