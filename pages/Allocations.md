@@ -16,7 +16,18 @@
 	- Was a rough point for the SEs
 	- Hadoop
 	- had to work with extrernal SEs to help with that.
-	-
+- Team Happiness
+	- passion for subject
+	- am I learning
+	- do I enjoy working with and learning from the other people on my team
+	- All of these are tied up in allocations
+- How to answer the people don't want to/ don't feel safe choosing?
+	- We don't have to force choices?
+	- We could allow people to opt out
+		- Falls back to us
+		- Or people who don't have strong opinions can fill in where needed after people who care have chosen.
+			- So they still have some choice and we can see who is choosing not to exercise it
+			- Also
 -
 	-
 -
