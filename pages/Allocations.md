@@ -1,3 +1,5 @@
+- Expect interactions that make people feel included, respected, and valued.
+- ---
 - Developing survey questions
 - Timeframe expectation
 	- 30
