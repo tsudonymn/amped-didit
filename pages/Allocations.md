@@ -61,7 +61,8 @@
 - Drew Cobb
 	- ITO fumbled GCP
 		- That got lost
-		-
+- How can we feel we do a good job of advocacy in less than 30mins every other week?
+-
 	-
 	-
 	-
