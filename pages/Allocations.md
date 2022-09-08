@@ -67,6 +67,8 @@
 - We only get enough work that we take most anything that makes it through the pipline
 - The Flip Team
 	- orgi people mover team
+- management badnwidth vs having enough context
+	- we can't have eough
 	-
 	-
 	-
