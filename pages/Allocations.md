@@ -55,6 +55,9 @@
 - people at labs who feel too afraid to speak up
 - Important obj for labs
 - easiest option was to find another job
+- Autonomy
+- empowerment
+- servant leadership
 -
 	-
 	-
