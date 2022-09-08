@@ -58,7 +58,10 @@
 - Autonomy
 - empowerment
 - servant leadership
--
+- Drew Cobb
+	- ITO fumbled GCP
+		- That got lost
+		-
 	-
 	-
 	-
