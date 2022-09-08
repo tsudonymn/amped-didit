@@ -62,6 +62,8 @@
 	- ITO fumbled GCP
 		- That got lost
 - How can we feel we do a good job of advocacy in less than 30mins every other week?
+- We should be good guides for people not the only ones advocating for people they should have paths for themselves
+- moving toward value based product/team allocation
 -
 	-
 	-
