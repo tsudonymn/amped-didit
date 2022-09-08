@@ -52,7 +52,10 @@
 	- 12 wks at D Labs
 	- Some time at Ford Learning and Development
 - ---
-	-
+- people at labs who feel too afraid to speak up
+- Important obj for labs
+- easiest option was to find another job
+-
 	-
 	-
 	-
