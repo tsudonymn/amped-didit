@@ -1,0 +1,4 @@
+- 65nm
+- 31 watts
+- Intel Core 2 Duo
+-
