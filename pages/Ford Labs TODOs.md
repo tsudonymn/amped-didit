@@ -3,7 +3,6 @@
 - TODO work adventure
 - TODO Help Ashley w/ broken app?
 - TODO Talent thing w/ Dorman's group Allison Amy Brian
-  <<<<<<< HEAD
 - TODO Goldilocks
 - DONE Ping Josh Peck for Backstage
 - TODO Schedule Interview and/or Demo w/ Mike and Goldilocks
