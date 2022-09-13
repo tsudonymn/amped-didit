@@ -1,4 +1,5 @@
 - Ceiling display pico projector
 - https://microengineer.eu/2018/05/01/diy-night-clock-projector/
 - Remote car starter
+	- Remote in car is a problem so how to strap to outside?
 - Whiteboard display

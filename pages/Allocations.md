@@ -1,0 +1,75 @@
+- Expect interactions that make people feel included, respected, and valued.
+- ---
+- Developing survey questions
+- Timeframe expectation
+	- 30
+	- 60
+	- 90
+- Check in frequency
+	- Am I learning something?
+	- Interesting problem space?
+	- People
+- Go Fast
+	- vehicle connected data
+	- build charts out of out
+	- really hard to get data
+	- really connect to the real data
+	- Not what we agreed to
+	- Was a rough point for the SEs
+	- Hadoop
+	- had to work with extrernal SEs to help with that.
+- Team Happiness
+	- passion for subject
+	- am I learning
+	- do I enjoy working with and learning from the other people on my team
+	- All of these are tied up in allocations
+- How to answer the people don't want to/ don't feel safe choosing?
+	- We don't have to force choices?
+	- We could allow people to opt out
+		- Falls back to us
+		- Or people who don't have strong opinions can fill in where needed after people who care have chosen.
+			- So they still have some choice and we can see who is choosing not to exercise it
+			- Also could see people who don't feel safe
+				- Could inquire why
+				-
+-
+-
+-
+- ---
+- Pros
+	- moving frequently encourages better env setup practices
+	- more consistentcy in eng practices
+	-
+- TODO track down promo email for Manjusha
+	-
+- ---
+- Julia Fisher
+	- via webex
+	- asking questions about follow up on interview questions
+	- Don't know much about
+	- Sharepoint admin dbs and servers
+	- reskill since feb 7
+	- 12 wks at D Labs
+	- Some time at Ford Learning and Development
+- ---
+- people at labs who feel too afraid to speak up
+- Important obj for labs
+- easiest option was to find another job
+- Autonomy
+- empowerment
+- servant leadership
+- Drew Cobb
+	- ITO fumbled GCP
+		- That got lost
+- How can we feel we do a good job of advocacy in less than 30mins every other week?
+- We should be good guides for people not the only ones advocating for people they should have paths for themselves
+- moving toward value based product/team allocation
+- We only get enough work that we take most anything that makes it through the pipline
+- The Flip Team
+	- orgi people mover team
+- management badnwidth vs having enough context
+	- we can't have eough
+	-
+	-
+	-
+	-

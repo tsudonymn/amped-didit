@@ -4,3 +4,6 @@
 - speedtest
 - shed
 - pi android/google tv
+- #[[Self Hosted Projects]]
+- #[[raspberrypi projects]]
+-

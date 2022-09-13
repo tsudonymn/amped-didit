@@ -1,0 +1,67 @@
+- History as I recall:
+	- Started on a while back when I posed the question to the Admin Team
+		- How might we let people choose their own team instead of assigning them?
+			- John Handy and I talked about it and he pushed back some and had some reasons
+				- I don't recall them
+				- He also was onboard with increasing the self service aspect in people being able to indicate their preference without depending on them talking to the manager
+		- Next was bringing this up with Amy and Elise in 3rd quarter goals meeting on Mon
+		- Then an item was put in Retro titled Allocations? (discuss)
+			- Sounds like Tanmay put it in
+				- Need to chat with him to understand the direction he was trying to have the conversation go
+- ---
+- Trying to find the game company that was big on self forming teams
+	- Obsdian maybe?
+	- Thought it might be riot and it wasn't.
+- Spotify squads and tribes
+	- comes up a lot for it's tribes and it's not clear they let those self form
+	- And found an article that was indicating they weren't even what people thought
+	- https://uxdesign.cc/squads-tribes-guild-to-be-like-spotify-or-not-13ecf690fd36
+	- https://www.harbott.com/why-squads-and-tribes-probably-wont-work/
+		- Not recommending we copy blindly especially because
+- Culture design and continual improvement
+- Questions to pose:
+	- Do we tell team what cards to work on?
+	- Do we believe we should learn from the customers not tell them what to do
+	  In college did you choose what classes you wanted to take so you could learn what you wanted to learn?
+	- Some classes you had to for a particular choice and most you choose
+	  Your major you choose
+	- And you could choose a different major if you wanted!
+- Survey design
+	- linkert scale?
+		- How much autonomy do you desire
+- Tanmay is an ally
+	- This process has been harming more than helping us
+	- 90s
+	- Pivitol Labs London
+- From Elise:
+- To the value question: I see our current setup as a way to aggregate thoughts of our reports, and of the needs of our teams, and act as arbiters for the mesh point between those two. It takes a half hour with 5-6 people to figure that out, and also get a lay of the land as far as team dynamics. As an SE, I felt safe that I didn’t have to be the one keeping the whole team in mind when it came to my own future within Labs. I’d let Michelle know my feelings, she could take that data in mind when considering everyone else as well, and I could get back to just worrying about my team for the time being.
+- ---
+- 8/12 Chat w/ Tanmay
+	- What's
+		- 2018 circa
+		- ryan kennel
+		- before peoplemover
+		- in the dorf days
+	- Values
+		- work on the most important thing
+		- If no one chooses a project that should tell us something
+	- ALF
+		- team that allows free movement
+	- Change
+		- they realize there isn't enough work
+			- They hang for a few days ro week and then tell people leader
+		- then the following week we do allocations and then the week after that maybe there's a change
+		- ONe backlog for all labs?
+		- One backlog for the the ford labs product suite @flabsian
+	- The products we build are awesome
+	- then we shifted to delivering good learnings
+		- enabling
+	- Effrain
+	- Nick Leah Andrew all on the down with allocation in some way
+		- All left
+	- We trust people to choose the path within the product, the tools, their process, and yet don't think they can choose their product? And how to add value?
+	- What would it look like?
+		- Come up with some examples in Miro?
+-
+	-
+	-

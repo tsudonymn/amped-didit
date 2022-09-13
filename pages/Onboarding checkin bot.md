@@ -1,0 +1,7 @@
+- General how's it going day 1,3,7?
+- Did you get you buddy?
+- Any computer issues?
+- Have you had a chance to see a few projects?
+- Post results to a onboarding channel?
+- Can you shcedule Polly's?
+-

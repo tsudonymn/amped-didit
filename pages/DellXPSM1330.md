@@ -1,0 +1,4 @@
+- 65nm
+- 34watts
+- better than a celeron n4050?
+-

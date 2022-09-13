@@ -1,0 +1,6 @@
+- Priory of the Orange Tree by Samantha Shannon
+- The Bone Shard Daughter by Andrea Stewart
+- The House in the Cerulean Sea by T.J. Klune
+- Legends & Lattes by Travis Baldree
+- Ash by Malinda Lo
+- Spear by Nicola Griffith

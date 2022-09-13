@@ -1,0 +1,6 @@
+- https://integraudio.com/what-is-vocoder/ #Projects
+- https://fakeyou.com/ #[[Ford Labs]] #Projects
+- https://www.reddit.com/r/MediaSynthesis/comments/jo17ia/the_new_vocodes_2_text_to_speech_and_song_website/
+- https://www.soundboard.com/sb/sound/8326https://www.soundboard.com/sb/sound/8326
+- https://app.resemble.ai/projects/2ccf38a5-default/clips
+- https://www.descript.com/terms?utm_campaign=tos_update&utm_medium=inapp&utm_source=beamer&utm_content=ctalink

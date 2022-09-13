@@ -3,5 +3,14 @@
 - TODO work adventure
 - TODO Help Ashley w/ broken app?
 - TODO Talent thing w/ Dorman's group Allison Amy Brian
+<<<<<<< HEAD
 - TODO Goldilocks
 -
+=======
+- DONE Ping Josh Peck for Backstage
+- TODO Schedule Interview and/or Demo w/ Mike and Goldilocks
+- TODO #[[Onboarding checkin bot]]
+- TODO Clearly establish mentorship pairs. Take some time to better establish mentorship as a part of the onboarding experience. 
+  @coconn33 @egriff38
+- TODO Schedule Backstage discussion with DCS?
+>>>>>>> f062b4b42016396980b6b65073bceb5781492871

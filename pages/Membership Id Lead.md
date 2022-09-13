@@ -1,0 +1,25 @@
+- Dan Soares
+- Akhil Anilkumar
+- Dane Fernandaz
+- REgion Braking
+- Scheduled Charging
+- Consent to analyze data
+- Testing out use cases
+- Work has already begun?
+	- What is being done?
+	- Righte audeience
+	- right chaneel
+	- a/b testing
+	- personalizing
+	- Looking for change in behavior?
+- Back to the meta of what we often do
+	- Open to activation?
+- Back to looking at the data for opportunities
+- Customer data driven
+- How to connect to customer desires?
+- Is Danew and Ankil as the users for enabling customer
+- Ford Ambassadors
+- On edge of electrification and we could help them feel good about going ahead and making the purchase
+- Back to the "dashboard" as the single customer view?
+- Still interested in how to get them to focus them on what are the concrete outcomes?
+-
