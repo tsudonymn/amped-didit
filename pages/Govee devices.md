@@ -1,3 +1,3 @@
-- #govee #mqtt #monitoring
+- #govee #mqtt #monitoring #temp #humidity
 - https://www.home-assistant.io/integrations/govee_ble/
 -
