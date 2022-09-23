@@ -1,0 +1,4 @@
+- #mqtt #ble #temp #humidity #monitoring #dashboard #govee
+- https://austinsnerdythings.com/2021/12/27/using-the-govee-bluetooth-thermometer-with-home-assistant-python-and-mqtt/
+-
+-

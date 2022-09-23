@@ -1,0 +1,4 @@
+- #SDR #leak #433 #mqtt #rtl
+- https://www.kyleniewiada.org/blog/2021/10/affordable-water-leak-and-temp-monitoring/
+- https://smile.amazon.com/Detector-Wireless-Notification-Security-Basement/dp/B07J9HZ5VN/ref=sr_1_5?keywords=water+leak+sensor&qid=1663778653&sprefix=leak+sensr%2Caps%2C94&sr=8-5&ufe=app_do%3Aamzn1.fos.304cacc1-b508-45fb-a37f-a2c47c48c32f
+- https://pushover.net/ #notification
