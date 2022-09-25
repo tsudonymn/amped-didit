@@ -14,4 +14,6 @@
 	- others you need to be at a base
 - upgrade your base?
 - get air/space support
--
+- if you aren't in control what happens around rocks and holes?
+	- Can your bot miss?
+		- what happens if so?
