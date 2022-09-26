@@ -17,17 +17,4 @@
   https://spikerman.itch.io/space-bike
 - ---
 - Paid assets:
-- Sci-Fi Space - Customizable Pixelart Backgrounds by aamatniekss
-  https://aamatniekss.itch.io/sci-fi-space-background-set
-- [ASSET PACK] OVERSTELLAR ✨ (Animated Pixel Art Stars, Planets, Effects & Space Backgrounds Animations) by OVERBOY ツ
-  https://overboy.itch.io/overstellar-pixel-art-stars-planets-space-backgrounds
-- Pixel Spaceship Megapack by Guardian
-  https://guardian5.itch.io/spaceship-megapack
-- Lab Enemies Sprite Sheets by Free Game Assets (GUI, Sprite, Tilesets)
-  https://free-game-assets.itch.io/lab-enemies-pixel-art
-- Futuristic 2D Sprite Kit by DyLESTorm
-  https://livingtheindie.itch.io/futuristic-2d-sprite-kit
-- Top Down Alien Spaceship by pzUH
-  https://pzuh.itch.io/top-down-alien-spaceship
-- Futuristic Vehicle Engine Sounds Vol. 2 by Magic Sound Effects
-  https://magicsoundeffects.itch.io/futuristic-vehicle-engine-sounds-vol-2
+-
