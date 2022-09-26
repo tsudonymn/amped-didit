@@ -17,3 +17,7 @@
 - if you aren't in control what happens around rocks and holes?
 	- Can your bot miss?
 		- what happens if so?
+- ---
+- #assets
+- [[assets for moon patrol space trucker mashup]]
+- https://opengameart.org/
