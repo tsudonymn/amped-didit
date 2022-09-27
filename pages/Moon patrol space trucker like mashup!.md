@@ -1,4 +1,25 @@
 - Mobile friendly?
 - Seems like it needs one more ingredient...
 - pygame?
--
+- deckbuildingesque element?
+- maybe find alien artifacts along the way
+- find materials
+	- ore?
+	- metals?
+	- parts from enemies
+- free control?
+- thinking its mostly watching with perhaps times where you can take control
+- if not in control you should be able to pause
+	- some upgrades and "cards" you can play along the way
+	- others you need to be at a base
+- upgrade your base?
+- get air/space support
+- if you aren't in control what happens around rocks and holes?
+	- Can your bot miss?
+		- what happens if so?
+- ---
+- #assets
+- [[assets for moon patrol space trucker mashup]]
+- https://opengameart.org/
+- #map #level
+- https://github.com/remance/Masendor#extremely-easy-map-creation
