@@ -50,8 +50,11 @@
 	- Check latest fan fic and slash sites
 - Domain objects
 	- fork
+		- of which story book etc
 		- starts at
-			- version
+			- version/edition
+		- merges at
+		- the actually content
 	- story
 	- fork
 	-
