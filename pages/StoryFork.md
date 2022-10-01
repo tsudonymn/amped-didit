@@ -13,5 +13,7 @@
 - Ideally it would be integrated with ebook so as you were reading you could see forks
 - Another way would be to go by book?
 - Legal stuff
-	- Seems safe
+	- Seems safe if it's just talking about a point in a book
+	- The trouble gets to be allowing people to read the edit in context
+	- You kind of want it to be an overlay if it's not
 	-
