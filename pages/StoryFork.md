@@ -71,7 +71,11 @@
 - How to build the community
 	- What would set it out from regular fan fic?
 		- The fork of fork?
-	- Offer regular prizes
+	- Offer regular prizes for
+		- most read
+		- most highly voted
+		- new content consistently?
+		-
 	-
 	-
 	-
