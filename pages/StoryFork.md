@@ -65,6 +65,9 @@
 	- Find a fork
 	- fair use get context
 		- a single "page"
+	- demo fork or fork
+	- show path through many forks
+	- show off most read and most highly voted paths
 	-
 	-
 	-
