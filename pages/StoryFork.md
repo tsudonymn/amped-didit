@@ -79,6 +79,10 @@
 	- connect with
 		- twitch
 		- discord
+		- etc
+		- that way authors can get the word out to their network
+		- patreon?
+			- other monetization
 	-
 	-
 	-
