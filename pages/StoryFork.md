@@ -18,7 +18,8 @@
 		- Like literally leverage a github like repo engine? Gitea?
 			- Check if any are open source and worth trying to leverage
 		- wordpress type engine?
-			-
+			- CMS
+		-
 	-
 	-
 - Ideally it would be integrated with ebook so as you were reading you could see forks
