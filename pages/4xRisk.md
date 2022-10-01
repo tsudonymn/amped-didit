@@ -1,1 +1,4 @@
-- How would you do a fast version of
+- How would you do a fast version of risk america?
+- Mechanic?
+	- dice
+	-
