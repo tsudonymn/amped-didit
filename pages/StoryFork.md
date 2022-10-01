@@ -59,6 +59,6 @@
 		- merges at
 		- the actual content
 		- author
-	-
+		-
 	-
 	-
