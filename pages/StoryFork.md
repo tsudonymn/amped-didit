@@ -53,10 +53,10 @@
 		- of which story book etc
 			- ISBN
 			- other methods of identifying
-		- starts at
 			- version/edition
+		- starts at
+			- word #
 		- merges at
-		- the actually content
-	- story
-	- fork
+		- the actual content
+	- author
 	-
