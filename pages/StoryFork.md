@@ -33,6 +33,9 @@
 - UI/UX
 	- Encourage a reading vs authoring split?
 	- personalized recommendations
+	- Should make it easy to edit.
+		- simple editor like github
+		- embed vscode like many sites are doing
 - Show me the money
 	- Not for $ and...
 		- Allow authors to monetize their forks
