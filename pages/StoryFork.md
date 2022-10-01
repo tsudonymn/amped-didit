@@ -17,6 +17,7 @@
 	- The trouble gets to be allowing people to read the edit in context
 	- You kind of want it to be an overlay if it's not purely divergent vs a bunch of smaller edits
 		- Does fair use cover some of that?
+	- Seems like if you own a copy especially in a epub-esque format then doing the overlay is safe
 - UI/UX
 	-
 	-
