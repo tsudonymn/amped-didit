@@ -15,5 +15,8 @@
 - Legal stuff
 	- Seems safe if it's just talking about a point in a book
 	- The trouble gets to be allowing people to read the edit in context
-	- You kind of want it to be an overlay if it's not
+	- You kind of want it to be an overlay if it's not purely divergent vs a bunch of smaller edits
+		- Does fair use cover some of that?
+- UI/UX
+	-
 	-
