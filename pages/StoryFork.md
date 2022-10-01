@@ -6,6 +6,10 @@
 - Technical stuff
 	- Need to be able to point to a specific place in a story
 		- Words in?
+			- How to handle different versions/edition
 		- Is there a better way for formats like epub?
 	- How do others see what's available?
-- Ideally it would be integrated with ebook
+- Ideally it would be integrated with ebook so as you were reading you could see forks
+- Another way would be to go by book?
+- Legal stuff
+	-
