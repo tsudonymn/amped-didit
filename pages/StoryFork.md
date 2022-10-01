@@ -7,4 +7,5 @@
 	- Need to be able to point to a specific place in a story
 		- Words in?
 		- Is there a better way for formats like epub?
-	- How do others
+	- How do others see what's available?
+- Ideally it would be integrated with ebook
