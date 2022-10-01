@@ -48,6 +48,7 @@
 		- Invite authors to collab on forks of their own stuff?
 - Does this already exist?
 	- Check latest fan fic and slash sites
+	- What do the big
 - Domain objects
 	- fork
 		- of which story book etc
@@ -64,6 +65,7 @@
 	- Find a fork
 	- fair use get context
 		- a single "page"
+	-
 	-
 	-
 	-
