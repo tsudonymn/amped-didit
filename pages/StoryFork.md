@@ -10,6 +10,10 @@
 		- The various numbers in the front of books
 		- Is there a better way for formats like epub?
 	- How do others see what's available?
+	- How to store forks?
+		- what are commonly used formats for fan fic?
+		- Markdown
+		-
 - Ideally it would be integrated with ebook so as you were reading you could see forks
 - Another way would be to search by book, series, author, etc?
 - Legal stuff
