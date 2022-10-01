@@ -51,6 +51,8 @@
 - Domain objects
 	- fork
 		- of which story book etc
+			- ISBN
+			- other methods of identifying
 		- starts at
 			- version/edition
 		- merges at
