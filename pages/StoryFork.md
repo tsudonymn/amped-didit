@@ -13,7 +13,10 @@
 	- How to store forks?
 		- what are commonly used formats for fan fic?
 		- Markdown
-		-
+		- Could eventually add many formats
+	- Is there a way to leverage existing tech/infra?
+		- Like literally leverage github
+	-
 - Ideally it would be integrated with ebook so as you were reading you could see forks
 - Another way would be to search by book, series, author, etc?
 - Legal stuff
