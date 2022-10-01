@@ -48,5 +48,10 @@
 		- Invite authors to collab on forks of their own stuff?
 - Does this already exist?
 	- Check latest fan fic and slash sites
-	-
+- Domain objects
+	- fork
+		- starts at
+			- version
+	- story
+	- fork
 	-
