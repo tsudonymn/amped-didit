@@ -26,7 +26,10 @@
 		- Allow authors to monetize their forks
 			- Back to the legality of it all
 - What's the best way to show this off?
-	-
+	- Find some existing forks?
+	- How to show the idea of people playing off eachothers forks
+	- The idea that the total may be more than the sum of the parts
+	- Like
 - Does this already exist?
 	- Check latest fan fic and slash sites
 	-
