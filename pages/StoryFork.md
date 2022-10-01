@@ -1,1 +1,3 @@
-- Allow any
+- Allow anyone to add onto any story
+- Don't like the ending tell your ending
+- Did the original author do something out of character or con
