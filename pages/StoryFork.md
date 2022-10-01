@@ -68,6 +68,10 @@
 	- demo fork or fork
 	- show path through many forks
 	- show off most read and most highly voted paths
+- How to build the community
+	- What would set it out from regular fan fic?
+		- The fork of fork?
+	- Offer regular prizes
 	-
 	-
 	-
