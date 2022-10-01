@@ -1,3 +1,5 @@
 - Allow anyone to add onto any story
 - Don't like the ending tell your ending
-- Did the original author do something out of character or con
+- Did the original author do something out of character or contrived? Fix it!
+- For those with coding background it's like a open pull request for a repo that never has to be merged
+- Audience FanF
