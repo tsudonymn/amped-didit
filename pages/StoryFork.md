@@ -29,7 +29,8 @@
 	- Find some existing forks?
 	- How to show the idea of people playing off eachothers forks
 	- The idea that the total may be more than the sum of the parts
-	- Like
+	- Encourage collaboration
+		- Invite authors to collab on forks of their own stuff?
 - Does this already exist?
 	- Check latest fan fic and slash sites
 	-
