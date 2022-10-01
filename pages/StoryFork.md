@@ -6,3 +6,5 @@
 - Technical stuff
 	- Need to be able to point to a specific place in a story
 		- Words in?
+		- Is there a better way for formats like epub?
+	- How do others
