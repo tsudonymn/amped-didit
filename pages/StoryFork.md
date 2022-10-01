@@ -11,7 +11,7 @@
 		- Is there a better way for formats like epub?
 	- How do others see what's available?
 - Ideally it would be integrated with ebook so as you were reading you could see forks
-- Another way would be to go by book?
+- Another way would be to search by book, series, author, etc?
 - Legal stuff
 	- Seems safe if it's just talking about a point in a book
 	- The trouble gets to be allowing people to read the edit in context
@@ -19,5 +19,8 @@
 		- Does fair use cover some of that?
 	- Seems like if you own a copy especially in a epub-esque format then doing the overlay is safe
 - UI/UX
+	-
+- Does this already exist?
+	- Check latest fan fic
 	-
 	-
