@@ -15,7 +15,11 @@
 		- Markdown
 		- Could eventually add many formats
 	- Is there a way to leverage existing tech/infra?
-		- Like literally leverage github
+		- Like literally leverage a github like repo engine? Gitea?
+			- Check if any are open source and worth trying to leverage
+		- wordpress type engine?
+			-
+	-
 	-
 - Ideally it would be integrated with ebook so as you were reading you could see forks
 - Another way would be to search by book, series, author, etc?
