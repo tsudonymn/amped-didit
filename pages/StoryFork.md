@@ -75,7 +75,10 @@
 		- most read
 		- most highly voted
 		- new content consistently?
-		-
+	- Show followers
+	- connect with
+		- twitch
+		- discord
 	-
 	-
 	-
