@@ -21,6 +21,11 @@
 - UI/UX
 	- Encourage a reading vs authoring split?
 	- personalized recommendations
+- Show me the money
+	- Not for $ and...
+		- Allow authors to monetize their forks
+			- Back to the legality of it all
+- What's the best way to show this off?
 	-
 - Does this already exist?
 	- Check latest fan fic and slash sites
