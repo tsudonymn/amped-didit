@@ -82,7 +82,8 @@
 		- etc
 		- that way authors can get the word out to their network
 		- patreon?
-			- other monetization
+			- other monetization sites?
+			- This is a tough one cause perhaps one of the ways to keep the lights on is to provide that and take a cut?
 	-
 	-
 	-
