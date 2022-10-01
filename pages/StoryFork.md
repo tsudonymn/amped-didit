@@ -19,8 +19,10 @@
 		- Does fair use cover some of that?
 	- Seems like if you own a copy especially in a epub-esque format then doing the overlay is safe
 - UI/UX
+	- Encourage a reading vs authoring split?
+	- personalized recommendations
 	-
 - Does this already exist?
-	- Check latest fan fic
+	- Check latest fan fic and slash sites
 	-
 	-
