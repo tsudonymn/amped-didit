@@ -60,7 +60,10 @@
 		- the actual content
 		- author
 		- fork of fork id?
-- How best to
+- Best place to start
+	- Find a fork
+	- fair use get context
+		- a single "page"
 	-
 	-
 	-
