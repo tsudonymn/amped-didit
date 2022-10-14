@@ -1,2 +1,6 @@
-- https://www.youtube.com/watch?v=4ba3GiJFiA4
+- Tutorial
+	- part 1
+		- https://www.youtube.com/watch?v=4ba3GiJFiA4
+	- part 2
+		- https://www.youtube.com/watch?v=uij9Ek9ax7I
 -
